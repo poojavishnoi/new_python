@@ -1,0 +1,2 @@
+
+word_list=['table', 'television', 'chair', 'bed', 'curtains', 'cupboard' ,'study table', 'plants', 'window', 'food', 'cutlery', 'toys', 'comb', 'clock', 'paintings', 'bin', 'bucket', 'iron', 'scissors', 'tubelight', 'sofa','fridge', 'washing machine', 'sink', 'glass', 'mirror', 'lamp', 'cushion', 'mixer','oil', 'shampoo', 'cream', 'plates', 'bottle', 'charger', 'phone', 'laptop', 'computer']
